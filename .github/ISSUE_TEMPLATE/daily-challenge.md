@@ -7,9 +7,9 @@ assignees: tempestwrecker
 
 ---
 
-Complete Day *#* of Replit's 100 Days of Python. 
+Complete Day # of Replit's 100 Days of Python. 
 
 # Task List 
-- [ ] **Required:** Watch the [*insert YouTube video name here*](*insert link here*) YouTube video. 
-- [ ] **Required:** Complete the [Day *#* Challenge](*insert link here*). 
+- [ ] **Required:** Watch the [insert YouTube video name here](insert link here) YouTube video. 
+- [ ] **Required:** Successfully code the Day # Challenge. 
 - [ ] **Optional:** Share your code with others.

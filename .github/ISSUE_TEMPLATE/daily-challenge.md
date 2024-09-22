@@ -12,4 +12,5 @@ Complete Day # of Replit's 100 Days of Python.
 # Task List 
 - [ ] **Required:** Watch the []() YouTube video. 
 - [ ] **Required:** Successfully code the Day # Challenge. 
+- [ ] **Optional:** Review the []() YouTube video. 
 - [ ] **Optional:** Share your code with others.
